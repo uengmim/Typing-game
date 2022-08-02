@@ -1,0 +1,21 @@
+table {
+    margin: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 200px;
+    font-size: 20px;
+  }
+  th {
+    background-color: teal;
+    color: white;
+  }
+  td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  h1 {
+    text-align: left;
+    font-size: 30px;
+  }
